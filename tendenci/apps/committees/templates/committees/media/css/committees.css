@@ -86,8 +86,18 @@
 	padding: 5px;	
 	cursor: pointer;
 }
+/*Added Editor bar*/
+.t-meta-editor-bar {  
+  background-color: #eeffdd; 
+}
+.t-meta-editor-bar .t-meta-options-links > li a {
+    color: #0066cc;
+}
+.t-meta-editor-bar .t-meta-options-links > li a:hover {    
+  color: #002266;
+}
 
-
+form.form-inline {margin-top: 30px;}​
 
 /* committee Print View
  ------------------------- */
